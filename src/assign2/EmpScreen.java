@@ -14,7 +14,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class EmpScreen extends javax.swing.JFrame {
 
