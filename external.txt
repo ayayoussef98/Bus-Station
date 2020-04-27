@@ -1,0 +1,7 @@
+﻿4781C,Egypt,Morocco,24/4/2018,2000.0,Medhat Ahmed,22,0,Bus
+1765B,Egypt,Lebanon,10/4/2018,5000,Zeyad Mohamed,37,2,Bus
+15343A,Morocco,Egypt,5/5/2018,2000.0,Medhat Ahmed,21,2,Bus
+54232S,Lebanon,Egypt,25/7/2018,5000.0,Zeyad Mohamed,41,0,Bus
+57239F,Egypt,Dubai,21/4/2018,4000.0,Zeyad Mohamed,50,2,Bus
+36687E,Dubai,Egypt,30/5/2018,4000.0,Ayman Mahmoud,50,2,Bus
+5676d,Egypt,Dubai,22/2/2018,20000.0,Ayman Mahmoud,50,2,Limousine
