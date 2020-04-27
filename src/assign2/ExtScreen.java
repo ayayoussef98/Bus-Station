@@ -15,7 +15,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class ExtScreen extends javax.swing.JFrame {
 
