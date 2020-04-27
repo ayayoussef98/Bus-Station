@@ -9,7 +9,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class PasswordScreen extends javax.swing.JFrame {
 
