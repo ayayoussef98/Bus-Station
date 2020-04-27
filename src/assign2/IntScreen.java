@@ -14,7 +14,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class IntScreen extends javax.swing.JFrame {
 
