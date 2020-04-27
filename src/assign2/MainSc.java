@@ -7,7 +7,6 @@ package assign2;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class MainSc extends javax.swing.JFrame {
 
