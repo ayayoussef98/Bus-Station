@@ -23,7 +23,6 @@ import java.util.logging.Logger;
 
 /**     ArrayList<Internal> internaltrips= new ArrayList<>();
  *
- * @author Ayah Soffar
  */
 public class Files {
       public ArrayList<Internal> intern = new ArrayList<>();
