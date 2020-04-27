@@ -15,7 +15,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class DeleteTrips extends javax.swing.JFrame {
 
