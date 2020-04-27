@@ -14,7 +14,6 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class DriverScreen extends javax.swing.JFrame {
 
